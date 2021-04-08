@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "709141243146",
+    "project_id": "techninja-7448d",
+    "storage_bucket": "techninja-7448d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709141243146:android:8a7498a2c7f16bc7ea46f3",
+        "android_client_info": {
+          "package_name": "com.techninja.techninja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709141243146-f4kiu91hn6vpqc7m6fge64gvpqakebkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpfwPIKNzl9o9pnz1Ui51WxTc-XLbPkU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709141243146-f4kiu91hn6vpqc7m6fge64gvpqakebkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
